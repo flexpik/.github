@@ -1,6 +1,6 @@
 <div align="center">
 
-# Flexpik
+# FlexPick
 
 **We build practical tools for developers launching and growing micro SaaS products.**
 
@@ -11,14 +11,14 @@
 </div>
 
 <p align="center">
-  Flexpik is a small product-minded engineering team. We help founders and developers turn ideas into maintainable software, and we are now publishing the internal tools and building blocks we wish existed earlier.
+  FlexPick is a small product-minded engineering team. We help founders and developers turn ideas into maintainable software, and we are now publishing the internal tools and building blocks we wish existed earlier.
 </p>
 
 ---
 
 ## What We Do
 
-At Flexpik, we work across product strategy, software delivery, and long-term technical maintenance.
+At FlexPick, we work across product strategy, software delivery, and long-term technical maintenance.
 
 Our focus is simple: help teams ship useful products faster, with less waste and fewer architectural dead ends.
 
